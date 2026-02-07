@@ -5,7 +5,7 @@ I'm a Computer Science student and an aspiring Software Developer building web a
 ## 🔭 Current Projects
 - Weather Dashboard with dynamic theming
 - Interactive Battleship game with AI
-- Personal portfolio website
+- Live NBA Game Predictor
 
 ## Currently Learning
 - Backend Development: Node.js, Express.js
